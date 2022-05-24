@@ -1,0 +1,14 @@
+para inserimos  objetos em uma lista :
+função insert ();e
+função append ().
+variável.insert (índice, objeto)      
+variável.append(objeto)
+Dados duas listas, x e y, a  sintaxe para unir a segunda lista á primeira é:
+x.extend(y) 
+função clear  
+variíavel.clear() 
+a função sort() realiza a ordenação direta ou inversa dos objetos de uma lista 
+sintaxe para ordenação direta 
+varíavel.sort()
+Sintaxe para ordenaçaõ inversa 
+Varíavel.sort(reverse=true)
